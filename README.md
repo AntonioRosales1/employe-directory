@@ -33,21 +33,6 @@ For Developers: After cloning this repo, make sure you run `npm i` to install al
 When using this app the user will be able to view an entire employee directory at once so that the user can have quick access to their information.
 
 
-## Preview
-![Employee Directory Preview](src/utils/images/Employee_Directory_Preview.png)
 
-![Employee Directory Walkthrough](src/utils/images/Employee_Directory_Walkthrough.gif)
-
-### Website
-
-[Employee Directory - GitHub Pages](https://sirog-e.github.io/employee-directory/) 
-
-
-## Contributing
-![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)\
-[SIROG-E](https://github.com/SIROG-E)
-
-## Test
-![](https://img.shields.io/badge/Test-100%25-success?style=flat&logo=node.js) 
 
 
