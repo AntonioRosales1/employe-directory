@@ -2,8 +2,7 @@
 <hr> 
 <br> 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)](http://https://github.com/SIROG-E)  
+
   
 ## Description
 This Employee Directory App was created with React. It allows the user to sort the table by name, phone number, email and dob (date of birth). It also allows user to search for a specific employee.
