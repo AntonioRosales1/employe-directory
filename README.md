@@ -8,17 +8,7 @@
 This Employee Directory App was created with React. It allows the user to sort the table by name, phone number, email and dob (date of birth). It also allows user to search for a specific employee.
 
 
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Preview](#preview)
-* [Website](#website)
-* [License](#license)
-* [Contributing](#contributing)
-* [Test](#tests)
-* [Questions](#questions)
-  
+
 ## Installation
 
 ```
