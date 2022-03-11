@@ -42,9 +42,6 @@ When using this app the user will be able to view an entire employee directory a
 
 [Employee Directory - GitHub Pages](https://sirog-e.github.io/employee-directory/) 
 
-## License
-This project is licensed by:\
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Contributing
 ![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)\
@@ -53,14 +50,4 @@ This project is licensed by:\
 ## Test
 ![](https://img.shields.io/badge/Test-100%25-success?style=flat&logo=node.js) 
 
-## Questions
-If you have any questions, contact SIROG-E at goris.evelyn@gmail.com
-  
-## Repository
-- [GitHub Repo Link](https://github.com/SIROG-E/employee-directory)
-  
-## GitHub
-![Image of me](https://avatars2.githubusercontent.com/u/70104520?s=150&u=8e74301d42e60aae2307f5628e80c8f9cf9f8263&v=4)
-- Evelyn Goris
-- [GitHub Profile](https://github.com/SIROG-E)
-- goris.evelyn@gmail.com
+
